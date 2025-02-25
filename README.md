@@ -1,8 +1,8 @@
-# Spire.PDF-for-JavaScript
+![image](https://github.com/user-attachments/assets/1f392515-435e-4ef2-be18-75596d450571)# Spire.PDF-for-JavaScript
 
 A robust PDF library empowering developers to create, edit, convert, and process PDF documents seamlessly in JavaScript
 
-[![Foo](https://imgur.com/3p9FAzQ)](https://www.e-iceblue.com/Introduce/pdf-for-javascript.html)
+[![Foo](https://i.imgur.com/6JRTxql.png)](https://www.e-iceblue.com/Introduce/pdf-for-javascript.html)
 
 [Product Page](https://www.e-iceblue.com/Introduce/pdf-for-javascript.html) | Documentation | Examples | [Forum](https://www.e-iceblue.com/forum/spire-pdf-f7.html) | [Temporary License](https://www.e-iceblue.com/TemLicense.html) | [Customized Demo](https://www.e-iceblue.com/Misc/customized-demo.html)
 
