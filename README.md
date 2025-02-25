@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1f392515-435e-4ef2-be18-75596d450571)# Spire.PDF-for-JavaScript
+# Spire.PDF-for-JavaScript
 
 A robust PDF library empowering developers to create, edit, convert, and process PDF documents seamlessly in JavaScript
 
